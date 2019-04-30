@@ -1,0 +1,11 @@
+Until 1994, Mercedes-Benz utilized an alphanumeric system for categorizing their vehicles, consisting of a number sequence approximately equal to the engine's displacement in liters multiplied by 100, followed by an arrangement of alphabetical suffixes indicating body style and engine type.
+
+"C" indicates a coupe or cabriolet body style (for example, the CL and CLK models, though the C-Class is an exception, since it is also available as a sedan or station wagon).
+"D" indicates the vehicle is equipped with a diesel engine.
+"E" (for "Einspritzung") indicates the vehicle's engine is equipped with petrol fuel injection. In most cases (the 600 limousine and Mercedes E-Class being the exceptions), if neither "E" or "D" is present, the vehicle has a petrol engine with a carburettor.
+"G" was originally used for the Geländewagen off-road vehicle, but is now applied to Mercedes SUVs in general (for example, the GLA and GLK).
+"K" was used in the 1930s, indicating a supercharger ("Kompressor") equipped engine. Two exceptions : the SSK and CLK, where K indicates "Kurz" (short-wheelbase).
+"L" indicates "Leicht" (lightweight) for sporting models, and "Lang" (long-wheelbase) for sedan models.
+"R" indicates "Rennen" (racing), used for racing cars (for example, the 300SLR).
+"S" Sonderklasse "Special class" for flagship models, including the S-Class, and the SL-Class, SLR McLaren and SLS sportscars.
+"T" indicates "Touring" and an estate (or station wagon) body style.
